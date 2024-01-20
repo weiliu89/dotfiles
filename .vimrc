@@ -2,7 +2,8 @@
 " Colors {{{
 syntax enable           " enable syntax processing
 syntax on
-colorscheme badwolf
+colorscheme gruvbox
+" set bg=dark
 " }}}
 " Misc {{{
 set ttyfast                     " faster redraw
