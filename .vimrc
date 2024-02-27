@@ -27,6 +27,7 @@ set cursorline          " highlight current line
 set wildmenu
 set lazyredraw
 set showmatch           " higlight matching parenthesis
+set ruler
 " }}}
 " Searching {{{
 set ignorecase          " ignore case when searching
